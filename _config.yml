@@ -12,7 +12,8 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Katrina Nguyen"
 resume_title:                   ""
-resume_header_intro: "<p>Hi! I am a neuroscientist interested in how populations of neurons interact to perceive the world and drive behavior, a topic I approach using techniques from statistics and machine learning.</p><p>I am currently a postdoc at Harvard University where I work with <a href=\"https://gershmanlab.com/\">Sam Gershman</a>. Previously, I got my Ph.D. in neural computation and machine learning at Carnegie Mellon University, where I studied learning using brain-computer interfaces with <a href=\"https://users.ece.cmu.edu/~byronyu/\">Byron Yu</a>, <a href=\"http://www.cnbc.cmu.edu/~schase/index.php\">Steve Chase</a>, and <a href=\"https://smile.pitt.edu/\">Aaron Batista</a>.</p>"
+resume_header_intro: "<p>Hi! I am a neuroscientist and engineer interested in how populations of neurons interact to learn a new motor skill to allow us to navigate the world.
+</p><p>I am currently a Biomedical Engineering PhD student at Carnegie Mellon University, where I work with <a href=\"https://labs.bio.cmu.edu/gittis/\">Aryn Gittis</a> and <a href=\"https://chaselab.github.io/">Steve Chase</a> studying movement behavior and kinematics to disentangle the circuit basis of motor skill learning.</p>"
 
 # Decide which sections to use
 # comment out to hide
