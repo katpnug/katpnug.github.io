@@ -46,3 +46,15 @@
     briefly: "Both simulation and behavioral results show that velocity-based learning decays at a slower rate than position-based learning, even when learning is significantly biased towards the latter at the end of training. Collectively, these results suggest that motion-state learning based on movement velocity is more stable than that based on limb position."
     summary: ""
     highlight: true
+-
+    title: "Feeding Experimentation Device (FED): A flexible open-source device for measuring feeding behavior"
+    authors: "<b>KP Nguyen</b>, TJ O'Neal, OA Bolonduro, E White, AV Kravitz"
+    journal: "Journal of Neuroscience Methods"
+    volume: "267, 108-114"
+    year: 2016
+    url: https://www.sciencedirect.com/science/article/pii/S0165027016300413
+    image: placeholder
+    imagetype: png
+    briefly: "The Feeding Experimentation Device (FED) is a low-cost, open-source, home cage-compatible feeding system that automatically quantifies feeding with high accuracy and temporal resolution. Learn more about FED and stay up-to-date <a href=\"https://kravitzlab.com/fed3\">here</a>!"
+    summary: ""
+    highlight: true
