@@ -36,13 +36,13 @@
     highlight: true
 -
     title: "The decay of motor adaptation to novel movement dynamics reveals an asymmetry in the stability of motion state-dependent learning"
-    authors: "<b>KP Nguyen</b>, ..., WM Joiner"
-    journal: "Journal of Neurophysiology"
-    volume: "122(3), 933-946"
-    year: 2019
-    url: https://journals.physiology.org/doi/full/10.1152/jn.00569.2018
+    authors: "EA Hosseini, <b>KP Nguyen</b>, WM Joiner"
+    journal: "PLoS Computational Biology"
+    volume: "13(5)"
+    year: 2017
+    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005492
     image: placeholder
     imagetype: png
     briefly: ""
-    summary: ""
+    summary: "Both simulation and behavioral results show that velocity-based learning decays at a slower rate than position-based learning, even when learning is significantly biased towards the latter at the end of training. Collectively, these results suggest that motion-state learning based on movement velocity is more stable than that based on limb position."
     highlight: true
