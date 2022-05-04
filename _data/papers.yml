@@ -22,27 +22,27 @@
     briefly: ""
     summary: ""
     highlight: true
- -
-    title: "Why do mice overeat high-fat diets? How high-fat diet alters the regulation of daily caloric intake in mice"
-    authors: "<b>KP Nguyen</b>*,JA Licholai*,WC Fobbs, CJ Schuster, MA Ali, AV Kravitz"
-    journal: "Obesity"
-    volume: "26(6), 1026-1033"
-    year: 2018
-    url: https://onlinelibrary.wiley.com/doi/full/10.1002/oby.22195
-    image: placeholder
-    imagetype: png
-    briefly: ""
-    summary: "High Fat Diet (HFD) did not disrupt the regulation of total daily caloric intake, even when up to 90% of total calories came from the HFD. However, HFDs increased daily caloric intake when provided ad libitum and were readily consumed by mice outside of their normal feeding cycle. Ad libitum HFDs appear to induce overconsumption beyond the mechanisms that regulate daily caloric intake."
-    highlight: true   
 -
-    title: "The decay of motor adaptation to novel movement dynamics reveals an asymmetry in the stability of motion state-dependent learning"
-    authors: "EA Hosseini, <b>KP Nguyen</b>, WM Joiner"
-    journal: "PLoS Computational Biology"
-    volume: "13(5)"
-    year: 2017
-    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005492
+    title: "The 24-h savings of adaptation to novel movement dynamics initially reflects the recall of previous performance"
+    authors: "<b>KP Nguyen</b>, ..., WM Joiner"
+    journal: "Journal of Neurophysiology"
+    volume: "122(3), 933-946"
+    year: 2019
+    url: https://journals.physiology.org/doi/full/10.1152/jn.00569.2018
     image: placeholder
     imagetype: png
     briefly: ""
-    summary: "Both simulation and behavioral results show that velocity-based learning decays at a slower rate than position-based learning, even when learning is significantly biased towards the latter at the end of training. Collectively, these results suggest that motion-state learning based on movement velocity is more stable than that based on limb position."
-    highlight: true   
+    summary: ""
+    highlight: true
+    -
+    title: "The 24-h savings of adaptation to novel movement dynamics initially reflects the recall of previous performance"
+    authors: "<b>KP Nguyen</b>, ..., WM Joiner"
+    journal: "Journal of Neurophysiology"
+    volume: "122(3), 933-946"
+    year: 2019
+    url: https://journals.physiology.org/doi/full/10.1152/jn.00569.2018
+    image: placeholder
+    imagetype: png
+    briefly: ""
+    summary: ""
+    highlight: true
