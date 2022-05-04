@@ -31,8 +31,8 @@
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/oby.22195
     image: placeholder
     imagetype: png
-    briefly: ""
-    summary: "High Fat Diet (HFD) did not disrupt the regulation of total daily caloric intake, even when up to 90% of total calories came from the HFD. However, HFDs increased daily caloric intake when provided ad libitum and were readily consumed by mice outside of their normal feeding cycle. Ad libitum HFDs appear to induce overconsumption beyond the mechanisms that regulate daily caloric intake."
+    briefly: "High Fat Diet (HFD) did not disrupt the regulation of total daily caloric intake, even when up to 90% of total calories came from the HFD. However, HFDs increased daily caloric intake when provided ad libitum and were readily consumed by mice outside of their normal feeding cycle. Ad libitum HFDs appear to induce overconsumption beyond the mechanisms that regulate daily caloric intake."
+    summary: ""
     highlight: true
 -
     title: "The decay of motor adaptation to novel movement dynamics reveals an asymmetry in the stability of motion state-dependent learning"
@@ -43,6 +43,6 @@
     url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005492
     image: placeholder
     imagetype: png
-    briefly: ""
-    summary: "Both simulation and behavioral results show that velocity-based learning decays at a slower rate than position-based learning, even when learning is significantly biased towards the latter at the end of training. Collectively, these results suggest that motion-state learning based on movement velocity is more stable than that based on limb position."
+    briefly: "Both simulation and behavioral results show that velocity-based learning decays at a slower rate than position-based learning, even when learning is significantly biased towards the latter at the end of training. Collectively, these results suggest that motion-state learning based on movement velocity is more stable than that based on limb position."
+    summary: ""
     highlight: true
