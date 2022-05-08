@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Katrina Nguyen"
+resume_name:                    "Katrina P Nguyen"
 resume_title:                   ""
 resume_header_intro: "<p>Hi! I am a neuroscientist and engineer interested in how populations of neurons interact to learn a new motor skill and allow us to navigate the world.</p><p>I am currently a Biomedical Engineering PhD candidate at Carnegie Mellon University, where I work with <a href=\"https://labs.bio.cmu.edu/gittis/\">Aryn Gittis</a> and <a href=\"https://chaselab.github.io/\">Steve Chase</a> studying movement behavior and kinematics to disentangle the circuit basis of motor skill learning.</p>"
 
