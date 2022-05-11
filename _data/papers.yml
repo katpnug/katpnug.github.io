@@ -53,8 +53,8 @@
     volume: "267, 108-114"
     year: 2016
     url: https://www.sciencedirect.com/science/article/pii/S0165027016300413
-    image: placeholder
-    imagetype: png
+    image: Nguyen2016
+    imagetype: jpg
     briefly: "The Feeding Experimentation Device (FED) is a low-cost, open-source, home cage-compatible feeding system that automatically quantifies feeding with high accuracy and temporal resolution. Learn more about FED and stay up-to-date <a href=\"https://kravitzlab.com/fed3\">here</a>!"
     summary: ""
     highlight: true
