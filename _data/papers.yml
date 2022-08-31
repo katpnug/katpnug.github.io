@@ -1,5 +1,17 @@
 -
-    title: "Distinct Kinematic Adjustments over Multiple Timescales Accompany Locomotor Skill Development in Mice"
+    title: "The indirect pathway of the basal ganglia promotes negative reinforcement, but not motor suppression"
+    authors: "BR Isett*, <b>KP Nguyen*</b>, JC Schwenk, CN Snyder, KA Adegbesan, U Ziausyte, AH Gittis"
+    journal: ""
+    volume: ""
+    year: 2021
+    url: https://www.biorxiv.org/content/10.1101/2022.05.18.492478v1
+    image: placeholder
+    imagetype: png
+    briefly: "Here, we examined how downstream pallidal targets of indirect pathway spiny neurons mediate motor and reinforcement. Surprisingly, our results suggest that the indirect pathway plays a more prominent role in negative reinforcement than in motor control."
+    summary: ""
+    highlight: true
+-
+    title: "Distinct kinematic adjustments over multiple timescales accompany locomotor skill development in mice"
     authors: "<b>KP Nguyen</b>, A Sharma, M Gil-Silva, AH Gittis*, SM Chase*"
     journal: "Neuroscience"
     volume: "466, 260-272"
@@ -12,7 +24,7 @@
     highlight: true
 -
     title: "The 24-h savings of adaptation to novel movement dynamics initially reflects the recall of previous performance"
-    authors: "<b>KP Nguyen</b>, ..., WM Joiner"
+    authors: "<b>KP Nguyen</b>, W Zhou, E McKenna, K Colucci-Chang, LC Bray, EA Hosseini, L Alhussein, WM Joiner"
     journal: "Journal of Neurophysiology"
     volume: "122(3), 933-946"
     year: 2019
