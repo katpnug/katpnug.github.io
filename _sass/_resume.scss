@@ -259,14 +259,15 @@
   font-weight: 300;
 
   ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: inline-block;
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    display: inline-block !important;
   }
   li {
-    display: inline-block;
-    margin: 0 1.2rem;
+    display: inline-block !important;
+    margin: 0 1.2rem !important;
+    list-style-type: none !important;
   }
   a {
     color: $text_color;
