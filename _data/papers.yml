@@ -1,11 +1,23 @@
 -
-    title: "The indirect pathway of the basal ganglia promotes negative reinforcement, but not motor suppression"
-    authors: "BR Isett*, <b>KP Nguyen*</b>, JC Schwenk, CN Snyder, KA Adegbesan, U Ziausyte, AH Gittis"
-    journal: ""
+    title: "Cerebellar circuit computations for predictive motor control"
+    authors: "<b>KP Nguyen</b> and AL Person"
+    journal: "Nature Reviews Neuroscience"
     volume: ""
-    year: 2022
-    url: https://www.biorxiv.org/content/10.1101/2022.05.18.492478v1
-    image: placeholder
+    year: 2025
+    url: https://www.nature.com/articles/s41583-025-00936-z
+    image: Nguyen2025
+    imagetype: png
+    briefly: "Here we review evidence for and against the hypothesis that the cerebellum learns basic associative feedforward control policies to speed up motor control and learning. We contrast and link this feedforward control framework with another prominent set of theories proposing that the cerebellum computes internal models. Ultimately, we suggest that the cerebellum may implement control through mechanisms that resemble internal models but involve model-free implicit mappings of high-dimensional sensorimotor contexts to motor output."
+    summary: ""
+    highlight: true
+-
+    title: "The indirect pathway of the basal ganglia promotes transient punishment but not motor suppression "
+    authors: "BR Isett*, <b>KP Nguyen*</b>, JC Schwenk, JR Yurek, CN Snyder, MV Vounatsos, KA Adegbesan, U Ziausyte, AH Gittis"
+    journal: "Neuron"
+    volume: ""
+    year: 2023
+    url: https://www.sciencedirect.com/science/article/pii/S0896627323003021?via%3Dihub
+    image: Nguyen2023
     imagetype: png
     briefly: "Here, we examined how downstream pallidal targets of indirect pathway spiny neurons mediate motor and reinforcement. Surprisingly, our results suggest that the indirect pathway plays a more prominent role in negative reinforcement than in motor control."
     summary: ""
@@ -36,7 +48,7 @@
     highlight: true
 -
     title: "Why do mice overeat high-fat diets? How high-fat diet alters the regulation of daily caloric intake in mice"
-    authors: "<b>KP Nguyen</b>*,JA Licholai*,WC Fobbs, CJ Schuster, MA Ali, AV Kravitz"
+    authors: "JA Licholai*, <b>KP Nguyen</b>*,WC Fobbs, CJ Schuster, MA Ali, AV Kravitz"
     journal: "Obesity"
     volume: "26(6), 1026-1033"
     year: 2018
@@ -67,6 +79,6 @@
     url: https://www.sciencedirect.com/science/article/pii/S0165027016300413
     image: Nguyen2016
     imagetype: jpg
-    briefly: "The Feeding Experimentation Device (FED) is a low-cost, open-source, home cage-compatible feeding system that automatically quantifies feeding with high accuracy and temporal resolution. Learn more about FED and stay up-to-date <a href=\"https://kravitzlab.com/fed3\">here</a>!"
+    briefly: "FED is a low-cost, open-source, home cage-compatible feeding system that automatically quantifies feeding with high accuracy and temporal resolution. Learn more about FED and stay up-to-date <a href=\"https://kravitzlab.com/fed3\">here</a>!"
     summary: ""
     highlight: true

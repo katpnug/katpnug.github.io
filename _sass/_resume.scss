@@ -250,3 +250,33 @@
     }
   }
 }
+
+.navbar-main {
+  margin: 1.5rem 0 0 0;
+  text-align: center;
+  font-family: $body-font;
+  font-size: 1.25rem;
+  font-weight: 300;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+  }
+  li {
+    display: inline-block;
+    margin: 0 1.2rem;
+  }
+  a {
+    color: $text_color;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 2px;
+    transition: border-color 0.2s, color 0.2s;
+    &:hover {
+      color: #9c9c9c;
+      border-bottom: 2px solid #9c9c9c;
+    }
+  }
+}

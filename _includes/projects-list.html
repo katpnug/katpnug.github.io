@@ -1,0 +1,15 @@
+<ul class="resume-item-list projects-list">
+{% for project in site.data.projects %}
+  <li class="project-item">
+    <span class="project-title">&ldquo;{{ project.title }}&rdquo;</span> <a href="{{ project.url }}" class="project-link">[link]</a><br>
+    <span style="font-size:smaller;">
+      <span style="color: gray;">{{ project.technologies }}</span>
+      <br><i>{{ project.year }}</i>
+    </span>
+    <div class="project-content">
+      <img src="static/images/projects/{{ project.image }}.{{ project.imagetype }}" width="200px" class="project-image">
+      <p class="project-description"><i>Description:</i> {{ project.description }}</p><br/>
+    </div>
+  </li>
+{% endfor %}
+</ul> 

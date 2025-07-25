@@ -1,0 +1,27 @@
+-
+    title: "Project 1"
+    description: "Description of your first project. What it does, technologies used, outcomes, etc."
+    technologies: "Python, Machine Learning, Data Analysis"
+    year: 2023
+    url: https://github.com/yourusername/project1
+    image: placeholder
+    imagetype: png
+    highlight: true
+-
+    title: "Project 2"
+    description: "Description of your second project. What it does, technologies used, outcomes, etc."
+    technologies: "JavaScript, React, Web Development"
+    year: 2022
+    url: https://github.com/yourusername/project2
+    image: placeholder
+    imagetype: png
+    highlight: true
+-
+    title: "Project 3"
+    description: "Description of your third project. What it does, technologies used, outcomes, etc."
+    technologies: "C++, Robotics, Computer Vision"
+    year: 2021
+    url: https://github.com/yourusername/project3
+    image: placeholder
+    imagetype: png
+    highlight: true 
