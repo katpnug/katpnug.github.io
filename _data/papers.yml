@@ -57,7 +57,7 @@
     imagetype: png
     briefly: "High Fat Diet (HFD) did not disrupt the regulation of total daily caloric intake, even when up to 90% of total calories came from the HFD. However, HFDs increased daily caloric intake when provided ad libitum and were readily consumed by mice outside of their normal feeding cycle. Ad libitum HFDs appear to induce overconsumption beyond the mechanisms that regulate daily caloric intake."
     summary: ""
-    highlight: true
+    highlight: false
 -
     title: "The decay of motor adaptation to novel movement dynamics reveals an asymmetry in the stability of motion state-dependent learning"
     authors: "EA Hosseini, <b>KP Nguyen</b>, WM Joiner"

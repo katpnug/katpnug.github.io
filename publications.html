@@ -3,5 +3,36 @@ layout: page
 title: Publications
 ---
 
-<h1>Publications</h1>
-{% include papers-list.html %} 
+<!-- <h1>Publications</h1> -->
+
+<h2>Highlights</h2>
+<ul class="resume-item-list papers-list">
+{% for paper in site.data.papers %}
+  {% if paper.highlight %}
+  <li class="paper-item">
+    <span class="paper-title">&ldquo;{{ paper.title }}&rdquo;</span> <a href="{{ paper.url }}" class="paper-link">[link]</a> <a href="static/pdf/papers/{{ paper.image }}.pdf" class="paper-link">[pdf]</a><br>
+    <span style="font-size:smaller;">
+      <span style="color: gray;">{{ paper.authors }}</span>
+      <br><i>{{ paper.journal }}</i> {{ paper.volume }} ({{ paper.year }})
+   	</span>
+   	<div class="paper-content">
+		<img src="static/images/papers/{{ paper.image }}.{{ paper.imagetype }}" width="200px" class="paper-image">
+		<p class="paper-brief"><i>Summary:</i> {{ paper.briefly }}</p><br/>
+	</div>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<h2>Complete Publications List</h2>
+<div style="list-style: none; padding-left: 0;">
+{% for paper in site.data.papers %}
+  <div style="margin-bottom: 15px;">
+    <span style="font-size: 0.9em; font-weight: bold;">&ldquo;{{ paper.title }}&rdquo;</span> <a href="{{ paper.url }}" class="paper-link">[link]</a> <a href="static/pdf/papers/{{ paper.image }}.pdf" class="paper-link">[pdf]</a><br>
+    <span style="font-size:smaller;">
+      <span style="color: gray;">{{ paper.authors }}</span>
+      <br><i>{{ paper.journal }}</i> {{ paper.volume }} ({{ paper.year }})
+   	</span>
+  </div>
+{% endfor %}
+</div> 
