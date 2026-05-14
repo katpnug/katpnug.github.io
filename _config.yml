@@ -36,12 +36,12 @@ resume_social_links:
   # resume_email:                 "katrinan@andrew.cmu.edu"
   resume_github_url:            "https://github.com/katpnug"
   resume_scholar_url:           "https://scholar.google.com/citations?user=u_R0BaIAAAAJ&hl=en"
-  resume_twitter_url:           "https://twitter.com/katpnug"
+#   resume_twitter_url:           "https://twitter.com/katpnug"
 #   resume_dribbble_url:          ""
   # resume_facebook_url:          "insert Facebook URL here"
 #   resume_linkedin_url:          ""
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://sites.google.com/andrew.cmu.edu/katpnug/home"
+#   resume_website_url:           "https://sites.google.com/andrew.cmu.edu/katpnug/home"
 #   resume_medium_url:            ""
 resume_print_social_links:      true
 
